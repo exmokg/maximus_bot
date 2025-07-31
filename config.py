@@ -1,0 +1,8 @@
+API_ID = 15131315
+API_HASH = "a1940ca7ce02955287a4c6742ad21f27"
+BOT_TOKEN = "YOUR_BOT_TOKEN"
+
+FILES_DIR = "files"
+SESSIONS_DIR = "sessions"
+SCRIPTS_DIR = "scripts"
+LOG_FILE = "bot.log"
